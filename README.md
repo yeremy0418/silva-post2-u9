@@ -74,7 +74,7 @@ El proyecto cuenta con **≥14 pruebas** distribuidas en tres clases:
 
 La cobertura de `ProductoServiceImpl` supera el **70% en líneas**.
 
-> 📸 *(Agrega aquí la captura de pantalla del reporte JaCoCo)*
+
 >
 > `![Captura JaCoCo](docs/jacoco-report.png)`
 
