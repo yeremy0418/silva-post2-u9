@@ -76,7 +76,7 @@ La cobertura de `ProductoServiceImpl` supera el **70% en líneas**.
 
 
 >
-> `![Captura JaCoCo](docs/jacoco-report.png)`
+> ![Captura JaCoCo](docs/jacoco-report.png)
 
 ## Pipeline de CI
 
